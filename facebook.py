@@ -68,8 +68,8 @@ def welcome():
         |..........   Facebook Crack   ...........|
         +-----------------------------------------+
         |            #Author: YAZID               | 
-        |	           Version 1.0                |
- 	    |           WORD IS OPEN SOURCE           |
+        |	       Version 1.0                |
+        |           WORD IS OPEN SOURCE           |
         +=========================================+
         |..........  Facebook Cracker  ...........|
         +-----------------------------------------+\n\n
